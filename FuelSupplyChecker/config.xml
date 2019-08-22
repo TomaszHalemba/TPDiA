@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<config>
+	<csvFilePath>C:\\Users\\michi\\Documents\\NetBeansProjects\\FuelSupplyChecker\\src\\fuelsupplychecker\\Dane dostawy.csv</csvFilePath>
+	<detectedSupplyTolerance>200</detectedSupplyTolerance>
+	<detectedSupplyNetTolerance>200</detectedSupplyNetTolerance>
+	<detectedHeightMaxDiff>500</detectedHeightMaxDiff>
+	<detectedNetHeightMaxDiff>500</detectedNetHeightMaxDiff>
+</config>

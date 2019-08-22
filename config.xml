@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<config>
+	<csvFilePath>C:\\Users\\Tomasz\\Deskeetop\\ \\studia\\HDiSED\\HDISED Projekt zasadniczy\\Dostawy\\Dane dostawy.csv</csvFilePath>
+	<detectedSupplyTolerance>200</detectedSupplyTolerance>
+	<detectedSupplyNetTolerance>200.00</detectedSupplyNetTolerance>
+	<detectedHeightMaxDiff>500</detectedHeightMaxDiff>
+	<detectedNetHeightMaxDiff>500</detectedNetHeightMaxDiff>
+	<outputFilePath>c:\\hdtemp\\</outputFilePath>
+	<extremePercent>30</extremePercent>
+	<dayInterval>50</dayInterval>
+</config>

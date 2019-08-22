@@ -1,0 +1,17 @@
+16.08
+
+zmiana dodawania tankid(dane s¹ dziwne, np 268 linijka to tank id 3, 2) (maksymalna wartoœæ tank id to 8, wiêc to nasze ujdzie)
+
+dodanie WSZÊDZIE try catch w dodawaniu danych bo w niektórych nie ma
+dodanie do listy typu (controler 53)
+dodanie dodawania czasu do supply
+
+17.08
+(patrz¹c na 3 linijke danych goœciu by³ tak zajebisty i¿ dostarczy³ w 0 min paliwo, ju¿ nie wiem jakich kwiatków mo¿emy sie spodziewaæ)
+dodanie klasy DataFiltering
+dodanie do supply wartosci klasyfikacji tube (0-ok 1-za ma³o 2-za du¿o daje 5% ró¿nicy var)(zapewnie mo¿na zamieniæ na bool ¿e po prostu jest ok, jest nie ok)
+ oraz var=wartoœæ zbiornika po tankowaniu-wartoœæ zbiornika przed tankowaniem-dowiezione paliwo (nie referencyjne), liczona podczas dodawania do listy
+(ciekawe skad jest te wszystkie java.util.inpitmismatchException)
+(jak zbiornik ma 2 id (3, 2) to jego pojemnoœæ jest wiêksza, choæ dostawa zgadza sie +- wiêc sam nie wiem co tu sie dzieje, kolejna te¿
+
+

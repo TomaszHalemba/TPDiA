@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/michi/Documents/hdRepo/FuelSupplyChecker/src/fuelsupplychecker/model/Analyzers/RecordsIntervalAnalyzerTank.java</file>
+            <file>file:/C:/Users/michi/Documents/hdRepo/FuelSupplyChecker/src/fuelsupplychecker/main/Controller.java</file>
+            <file>file:/C:/Users/michi/Documents/hdRepo/FuelSupplyChecker/src/fuelsupplychecker/model/DataFiltering.java</file>
+            <file>file:/C:/Users/michi/Documents/hdRepo/FuelSupplyChecker/src/fuelsupplychecker/model/Analyzers/TerminalAnalyzer.java</file>
+            <file>file:/C:/Users/michi/Documents/hdRepo/FuelSupplyChecker/src/fuelsupplychecker/model/Analyzers/BaseRecordAnalyzer.java</file>
+            <file>file:/C:/Users/michi/Documents/hdRepo/FuelSupplyChecker/src/fuelsupplychecker/model/Analyzers/StationAnalyzer.java</file>
+            <file>file:/C:/Users/michi/Documents/hdRepo/FuelSupplyChecker/src/fuelsupplychecker/model/DateManager.java</file>
+            <file>file:/C:/Users/michi/Documents/hdRepo/FuelSupplyChecker/src/fuelsupplychecker/model/Supply.java</file>
+            <file>file:/C:/Users/michi/Documents/hdRepo/FuelSupplyChecker/src/fuelsupplychecker/model/Analyzers/MainRecordAnalysisManager.java</file>
+            <file>file:/C:/Users/michi/Documents/hdRepo/FuelSupplyChecker/src/fuelsupplychecker/model/FileManager.java</file>
+            <file>file:/C:/Users/michi/Documents/hdRepo/FuelSupplyChecker/src/fuelsupplychecker/main/ConfigManager.java</file>
+            <file>file:/C:/Users/michi/Documents/hdRepo/FuelSupplyChecker/src/fuelsupplychecker/model/Analyzers/TruckAnalyzer.java</file>
+            <file>file:/C:/Users/michi/Documents/hdRepo/FuelSupplyChecker/src/fuelsupplychecker/main/FuelSupplyChecker.java</file>
+            <file>file:/C:/Users/michi/Documents/hdRepo/FuelSupplyChecker/src/fuelsupplychecker/model/LeakDetector.java</file>
+            <file>file:/C:/Users/michi/Documents/hdRepo/FuelSupplyChecker/src/fuelsupplychecker/model/Analyzers/DriverAnalyzer.java</file>
+            <file>file:/C:/Users/michi/Documents/hdRepo/FuelSupplyChecker/src/fuelsupplychecker/view/MainView.java</file>
+            <file>file:/C:/Users/michi/Documents/hdRepo/FuelSupplyChecker/src/fuelsupplychecker/model/DataAnalyzer.java</file>
+            <file>file:/C:/Users/michi/Documents/hdRepo/FuelSupplyChecker/src/fuelsupplychecker/model/Analyzers/RecordsIntervalAnalyzerDriver.java</file>
+            <file>file:/C:/Users/michi/Documents/hdRepo/FuelSupplyChecker/src/fuelsupplychecker/model/Analyzers/RecordAnalysisManager.java</file>
+            <file>file:/C:/Users/michi/Documents/hdRepo/FuelSupplyChecker/src/fuelsupplychecker/model/ColumnAnalyzer.java</file>
+            <file>file:/C:/Users/michi/Documents/hdRepo/FuelSupplyChecker/src/fuelsupplychecker/model/Analyzers/TankAnalyzer.java</file>
+        </group>
+    </open-files>
+</project-private>
